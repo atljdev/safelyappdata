@@ -1,14 +1,4 @@
 {
-  "1606754425": {
-    "key": 1606754425,
-    "category": "Motivation",
-    "content": "this is a placeholder"
-  },
-  "1605135099": {
-    "key": 1605135099,
-    "category": "General",
-    "content": "<h1>Drink a warm beverage</h1>\n<p>A warm, steamy drink before bedtime may help soothe a sore throat, while the steam may loosen up your congestion.</p>"
-  },
   "1606804575": {
     "key": 1606804575,
     "category": "General",
@@ -18,8 +8,5 @@
     "key": 1606804626,
     "category": "General",
     "content": "Eating melon relieves anxiety and stress, plus they boost your metabolism."
-  },
-  "1606805564":{"key":1606805564,"category":"Nutrition","content":"sa"},
-  "1606805562":{"key":1606805562,"category":"Immunity","content":"sa"},
-  "1606805561":{"key":1606805561,"category":"Common Mistakes","content":"sa"}
+  }
 }
