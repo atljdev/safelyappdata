@@ -1,8 +1,22 @@
 {
-  "1606754425":{"key":1606754425,"category":"Motivation","content":"this is a placeholder"},
+  "1606754425": {
+    "key": 1606754425,
+    "category": "Motivation",
+    "content": "this is a placeholder"
+  },
   "1605135099": {
     "key": 1605135099,
     "category": "General",
     "content": "<h1>Drink a warm beverage</h1>\n<p>A warm, steamy drink before bedtime may help soothe a sore throat, while the steam may loosen up your congestion.</p>"
+  },
+  "1606804575": {
+    "key": 1606804575,
+    "category": "General",
+    "content": "Tomatoes needed to be consumed since they contain lycopene; which is powerful cancer fighter."
+  },
+  "1606804626": {
+    "key": 1606804626,
+    "category": "General",
+    "content": "Eating melon relieves anxiety and stress, plus they boost your metabolism."
   }
 }
